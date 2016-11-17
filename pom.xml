@@ -4,7 +4,7 @@
     <groupId>com.real-comp</groupId>
     <artifactId>names-common</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>prime</name>
     <description>Name POJO</description>
     <url>https://github.com/real-comp/names-common</url>
@@ -31,7 +31,7 @@
         <connection>scm:git:git@github.com:real-comp/names-common.git</connection>
         <developerConnection>scm:git:git@github.com:real-comp/names-common.git</developerConnection>
         <url>git@github.com:real-comp/names-common.git</url>
-        <tag>names-common-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <snapshotRepository>
