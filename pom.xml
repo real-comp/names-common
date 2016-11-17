@@ -5,7 +5,7 @@
     <artifactId>names-common</artifactId>
     <packaging>jar</packaging>
     <version>1.0.1-SNAPSHOT</version>
-    <name>prime</name>
+    <name>names-common</name>
     <description>Name POJO</description>
     <url>https://github.com/real-comp/names-common</url>
     <organization>
